@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yesimozdemir1
+- 👋 Hi, I’m @yesimbulgan
 - 👀 I’m interested in microsoft office programs, arena, matlab, r programming and java.
 - 🌱 I’m currently learning power BI.
 - 📫 How to reach me: yesimozdemir1@gmail.com
