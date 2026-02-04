@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yesimbulgan
-- 👀 I’m interested in microsoft office programs, arena, matlab, r programming and java.
-- 🌱 I’m currently learning power BI.
+- 👀 My technical skills are MS Office, SAP BW-MM, SQL, Power BI and Python.
+- 🌱 I’m currently learning Shopify.
 - 📫 How to reach me: yesimozdemir1@gmail.com
 
 <!---
